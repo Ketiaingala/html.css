@@ -1,0 +1,24 @@
+@charset "UTF-8";
+body{
+    background-color: black;
+
+}
+.a{
+    display: flex;
+    margin: 0 auto;
+    padding-top: 30px;
+    
+
+
+}
+.b{
+    display: flex;
+    margin: 0 auto;
+    padding-top:10px;
+    
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    padding-top: 20px;
+}
